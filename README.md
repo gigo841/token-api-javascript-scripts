@@ -1,8 +1,8 @@
-# Alchemy Token API Javascript Scripts
-
-Clone the repo, install dependencies, and try the API out!
-
-1. Clone
+git clone https://github.com/alchemyplatform/nft-api-javascript-scripts.git
+npm install
+node alchemy-web3-script.js
+node fetch-script.
+node axios-script.js
 
 ```
 git clone https://github.com/alchemyplatform/nft-api-javascript-scripts.git
@@ -21,7 +21,7 @@ node alchemy-web3-script.js
 ```
 
 4. Use `fetch` javascript module
-
+node fetch-script.js
 ```
 node fetch-script.js
 ```
